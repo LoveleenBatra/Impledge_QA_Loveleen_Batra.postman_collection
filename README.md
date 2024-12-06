@@ -1,6 +1,7 @@
 # Impledge_QA_Loveleen_Batra.postman_collection
 # Overview
 This Postman collection is designed to test and verify API endpoints provided by EasyPost for address verification and shipment details. The collection includes multiple requests with associated test scripts to validate the functionality and correctness of API responses. The focus of this program is to ensure the API behaves as expected under various scenarios while adhering to defined test cases.
+It Include 3 Test Cases
 # Material Provided
 A json "Impledge_QA_Exercise.postman_collection.json"file in which we have to do the changes 
 # Design Decisions  
